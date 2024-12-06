@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20647414&label=Profile%20views&color=0e75b6&style=flat" alt="it20647414" /> </p>
 
-- 🔭 I’m currently working on **.NET MVC Project**
+- 🔭 I’m currently working on **React Native & .NET Project**
 
 - 🌱 I’m currently learning **New Frameworks and Library**
 
